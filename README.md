@@ -13,8 +13,8 @@ Dare output di prezzo com massimo due decimali (forma umana), per indicare i cen
 ### INPUT
 
 Chiedere all'utente:
-- [ ] Numero di Kilometri che vorrebbe percorrere;
-- [ ] Età del passeggero.
+- [x] Numero di Kilometri che vorrebbe percorrere;
+- [x] Età del passeggero.
 
 ### LOGICA
 

@@ -5,7 +5,7 @@
 
 // Chiedo numero di km, che sarà una string
 let numKm = prompt(
-  "Benvenuto in TrainBOOL! Quanti kilometri dovrai percorrere?"
+  "Benvenuto in TrainBOOL! Quanti Km dovrai percorrere?"
 ); //string
 // Converto il dato fornito in number
 numKm = parseFloat(numKm); //number
