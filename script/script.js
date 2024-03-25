@@ -1,0 +1,2 @@
+// TEST
+// alert('Test JS');

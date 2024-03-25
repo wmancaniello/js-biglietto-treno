@@ -1,0 +1,18 @@
+.container {
+    height: 100vh;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    padding: 100px;
+    background-color: black;
+    color: white;
+    font-size: 2em;
+}
+
+#price {
+    color: lightcoral;
+}
